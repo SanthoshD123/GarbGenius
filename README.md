@@ -2,7 +2,7 @@
 
 ## Overview
 GarbGenius is an **AI-driven fashion recommendation system** that enhances the shopping experience with **Augmented Reality (AR)** and **machine learning algorithms**. It allows users to virtually try on clothes and receive personalized fashion recommendations based on their preferences and current trends. Initially, **K-Nearest Neighbors (KNN)** was used for recommendations, but **Support Vector Machine (SVM)** was later integrated to improve accuracy.
-(I pulled recommendation system source code only, If you want AR code ask me at gmail : santhosh.damu78@gmail.com)
+(I pulled recommendation system source code only, If you want AR code ask me at gmail : santhosh.damu78@gmail.com), Here publication for more detail [https://ijcrt.org/viewfull.php?&p_id=IJCRT24A4814]
 ## Features
 - **AI-Powered Clothing Recommendations**
 - **Virtual Try-On with Augmented Reality (AR)**
